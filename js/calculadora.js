@@ -15,3 +15,6 @@ function borrar() {
     let celsiusInput = document.getElementById('celsiusInput').value = '';
     let resultado = document.getElementById('resultado').innerHTML = '';
 }
+
+alert(`Calculadora de temperatura
+       Samuel Ruiz 2022-0259`)
